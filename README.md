@@ -160,7 +160,7 @@ Gem: omniauth-google-oauth2 (Rails)<br>
   
 #### ***インフラ:***
 * フロントエンド：Vercel
-* バックエンド：Heroku
+* バックエンド：Render
 * データベース：S3
 
 現状実務でTypeScriptを触っているのですが、
