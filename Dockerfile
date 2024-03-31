@@ -2,7 +2,7 @@
 FROM ruby:3.1.4
 
 # Node.jsのインストール
-RUN curl -sL https://deb.nodesource.com/setup_14.x | bash - && \
+RUN curl -sL https://deb.nodesource.com/setup_18.x | bash - && \
     apt-get install -y nodejs
 
 # Yarnのインストール
