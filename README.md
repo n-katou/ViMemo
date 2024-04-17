@@ -172,6 +172,10 @@ Railsで一度作りきってから、順次移行していきたいと思いま
 https://www.figma.com/file/IFJvE4NJysCXdHW2bAumhK/Portfolio?type=design&node-id=0-1&mode=design&t=OX7llLQ0Tckasw5G-0
 <br>
 
+## **ER図**
+![](https://i.gyazo.com/22270ba0fe66ed4f695a2bd86db6724f.png)
+<br>
+
 ## **READMEに記載した機能**
 - [x] ユーザー登録機能
 - [x] ユーザー権限付与機能
