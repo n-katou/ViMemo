@@ -10,6 +10,8 @@ services:
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     ports:
       - "5432:5432"
+    networks:
+      - app_network  # 追加
 
   back:
     build:
@@ -29,6 +31,8 @@ services:
     environment:
       RAILS_ENV: development
       DATABASE_URL: postgres://katounaoto:${POSTGRES_PASSWORD}@db:5432/vimemo_development
+    networks:
+      - app_network  # 追加
 
   front:
     build:
@@ -38,10 +42,17 @@ services:
       - ./front:/app
     command: yarn dev -p 4000
     ports:
-      - "8000:4000"
+      - "4000:4000"
     tty: true
     stdin_open: true
+    networks:
+      - app_network  # 追加
+
 volumes:
   postgres_data:
   bundle_data:
   node_modules:
+
+networks:  # 外側で定義
+  app_network:  # ネットワーク名とその設定
+    driver: bridge  # ブリッジネットワークを使用
