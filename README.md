@@ -17,17 +17,17 @@ YOUTUBEなどからアイデアを得る際、
 ## **機能紹介**
 | トップ画面 | ログイン機能 |
 |:-:|:-:|
-|![Image from Gyazo](https://i.gyazo.com/985ec48029afa353cbe04c054632e9be.gif)|![Image from Gyazo](https://i.gyazo.com/b9226792089d148f0b1dcc659786d536.gif)|
+|![トップ画面](gif/top.gif)|![ログイン機能](gif/login.gif)|
 | MUSIC STATIONをイメージしてデザインしました。見たい説明だけ見れるように切り替えられるようにしました。 | 登録する手間を省くために、Google認証でログインできるようにしました。 |
 
 | メモ作成 | メモ編集 |
 |:-:|:-:|
-|![Image from Gyazo](https://i.gyazo.com/7976fa8f168a82669aff26214fe9d70c.gif)|![Image from Gyazo](https://i.gyazo.com/a1c63d00c74953b5e27393f7b2611da0.gif)|
+|![メモ作成](gif/memocreate.gif)|![メモ編集](gif/memoedit.gif)|
 | 再生中でもメモを書くことが出来ます。フォームが不必要な時は閉じれるようにしています。 | モーダルを中央に表示することで、動画を視聴しながら修正しやすくしました。 |
 
 | タイムスタンプ | プレイリスト |
 |:-:|:-:|
-|![Image from Gyazo](https://i.gyazo.com/9aef836642f1cfa60a35f809c098bffb.gif)|![Image from Gyazo](https://i.gyazo.com/52ed84887624b7f6a45a824c888adf3d.gif)|
+|![タイムスタンプ](gif/timestamp.gif)|![プレイリスト](gif/playlist.gif)|
 | タイムスタンプをクリックでその時間までスキップします。モバイルだと時間が表示されないので、タイムを別途表示しています（表示・非表示の切り替え可能） | いいねした動画でプレイリストを作成出来ます。シャッフル機能もつけています。 |
 
 ## **技術スタック**
