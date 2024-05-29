@@ -45,7 +45,7 @@ YOUTUBEなどからアイデアを得る際、
 | その他 | Tailwind CSS / Swiper / ESLint <br>CarrierWave / letter opener web |
 
 ## **ER図**
-![](https://i.gyazo.com/294ea96caa8f483866845026b413aa45.png)
+![](https://i.gyazo.com/3e77c215c78f2e6f717d0b8e9d8b6ec5.png)
 <br>
 
 ## **画面遷移図**
