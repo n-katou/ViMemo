@@ -44,8 +44,12 @@ YOUTUBEなどからアイデアを得る際、
 | インフラ | Vercel / Fly.io / Amazon S3 |
 | その他 | Tailwind CSS / Swiper / ESLint <br>CarrierWave / letter opener web |
 
+## **構成図**
+![](https://i.gyazo.com/6b14d5d8f6f89b00029b7c288a2871c6.png)
+<br>
+
 ## **ER図**
-![](https://i.gyazo.com/3e77c215c78f2e6f717d0b8e9d8b6ec5.png)
+![](https://i.gyazo.com/4f8f57937967a69b765771943614da25.png)
 <br>
 
 ## **画面遷移図**
