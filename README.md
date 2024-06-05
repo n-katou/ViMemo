@@ -37,7 +37,7 @@ YOUTUBEなどからアイデアを得る際、
 | フロントエンド | Next.js 14.2.3 / React 18.3.1 / TypeScript 5.4.5 | 
 | バックエンド | Ruby 3.1.5 / Ruby on Rails 7.0.3 |
 | データベース | fly postgres |
-| 認証 | Firebase Authentication / sorcery |
+| 認証 | Google OAuth 2.0 / sorcery |
 | API | Youtube data API |
 | 環境構築 | Docker |
 | CI/CD | Github Actions |
