@@ -49,7 +49,7 @@ YOUTUBEなどからアイデアを得る際、
 <br>
 
 ## **ER図**
-![](https://i.gyazo.com/d2d547eadd41814d948dae8320a98820.png)
+![](https://i.gyazo.com/0df92fe92976f9bc6dfb9939c02047d3.png)
 <br>
 
 ## **画面遷移図**
